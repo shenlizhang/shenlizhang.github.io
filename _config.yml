@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenli Zhang /Personal Website"
+title                    : "Shenli Zhang/Personal Website"
 title_separator          : "-"
 name                     : &name "Shenli Zhang"
 description              : &description "Postdoctoral researcher in computational modeling"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shenli Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher in computational materials"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

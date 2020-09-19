@@ -1,39 +1,7 @@
 ## About
 
-I'm a postdoctoral researcher in Prof. Giulia Galli's group at the University of Chicago since Oct. 2018.
+I'm a postdoctoral researcher in Prof. Giulia Galli's group at the University of Chicago since Oct. 2018. My current research focus is on properties of defective oxides materials using first-principles calculations. I would like to develop a career in academia as a computational materials scientist.
 
-You can use the [editor on GitHub](https://github.com/zsl510705/shlzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I took some time to find this goal. I received my B.S. degree in Applied Physics and M.S. degree in Optical Engineering from Shanghai Jiao Tong University in China, during which I was selected in the "4+4" exchange program to study two years of General Engineering at Ecole Centrale de Lyon in France. I found myself more interested in science, so I further pursued a Ph.D. degree in Materials Science and Engineering from UC Davis. This is also when I found my real interest lies in computational modeling, and I transited from experiments to this area. My [Ph.D. thesis](https://pqdtopen.proquest.com/doc/2133565261.html?FMT=ABS) focuses on understanding gas adsorption/transport properties in various porous materials and interface stability in oxides using atomistic simulations, co-advised by Prof. Roland Faller Prof. Ricardo Castro and Prof. Pieter Stroeve.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zsl510705/shlzhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As a postdoc right now, my main goal is to expand my computational techniques at the electronic-structures level, to eventually build a multi-scale simulation lab to understand various materials properties. 

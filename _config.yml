@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenli Zhang/About Myself"
+title                    : "Shenli Zhang"
 title_separator          : "-"
 name                     : &name "Shenli Zhang"
 description              : &description "description"

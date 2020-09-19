@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About
 
 I'm a postdoctoral researcher in Prof. Giulia Galli's group at the University of Chicago since Oct. 2018. My current research focus is on properties of defective oxides materials using first-principles calculations. I would like to develop a career in academia as a computational materials scientist.
 

@@ -1,6 +1,6 @@
 ## About
 
-I'm a postdoctoral research in Prof. Giulia Galli's group at the University of Chicago since Oct. 2018.
+I'm a postdoctoral researcher in Prof. Giulia Galli's group at the University of Chicago since Oct. 2018.
 
 You can use the [editor on GitHub](https://github.com/zsl510705/shlzhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
